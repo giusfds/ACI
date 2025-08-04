@@ -15,12 +15,6 @@ A disciplina introduz os conceitos fundamentais da arquitetura de computadores, 
 - **Theldo Cruz**
 - Conhecido por sua abordagem clara e objetiva na introdução aos fundamentos da arquitetura de computadores e eletrônica digital.
 
-## 📂 Conteúdo do repositório
-
-- `bases/` — Exercícios e exemplos de conversão entre bases numéricas.
-- `logica/` — Diagramas e resoluções de circuitos lógicos.
-- `assembly8085/` — Programas simples escritos em Assembly 8085.
-
 
 ---
 

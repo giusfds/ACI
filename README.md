@@ -1,10 +1,27 @@
-# Arquitetura de Computadores 1
+# Arquitetura de Computadores 1 🧠
 
-## Descrição
-Repositório destinado a materia de Arquitetura de Computadores 1 (AC1) com o professor Theldo Cruz Franqueira.
+Repositório com conteúdos da disciplina **Arquitetura de Computadores 1**, ministrada pelo professor **Theldo Cruz** na PUC Minas.
 
-## Introdução
+## 📚 Sobre a disciplina
 
-Arquitetura de Computadores 1 (AC1) é uma disciplina fundamental para os estudantes de Ciência da Computação e Engenharia da Computação. Nesta matéria, são abordados conceitos essenciais sobre a estrutura e funcionamento dos computadores, incluindo a organização de hardware, funcionamento de processadores, memória, e sistemas de entrada e saída. O objetivo é fornecer uma base sólida para o entendimento de como os computadores executam programas e processam informações, preparando os alunos para disciplinas mais avançadas e para o desenvolvimento de soluções eficientes em software e hardware.
+A disciplina introduz os conceitos fundamentais da arquitetura de computadores, incluindo:
 
-[Giuseppe Cordeiro](https://github.com/giusfds)
+- **Conversão de bases numéricas**: binário, decimal, octal e hexadecimal.
+- **Circuitos Lógicos**: portas lógicas, circuitos combinacionais, mapas de Karnaugh, somadores e multiplexadores.
+- **Assembly 8085**: primeiros passos com a linguagem de montagem para o processador Intel 8085, incluindo registradores, instruções básicas e estrutura de programas.
+
+## 👨‍🏫 Professor
+
+- **Theldo Cruz**
+- Conhecido por sua abordagem clara e objetiva na introdução aos fundamentos da arquitetura de computadores e eletrônica digital.
+
+## 📂 Conteúdo do repositório
+
+- `bases/` — Exercícios e exemplos de conversão entre bases numéricas.
+- `logica/` — Diagramas e resoluções de circuitos lógicos.
+- `assembly8085/` — Programas simples escritos em Assembly 8085.
+
+
+---
+
+> Repositório mantido por alunos da Ciência da Computação — PUC Minas.
